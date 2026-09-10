@@ -13,8 +13,8 @@
 
 - 🎓 Pursuing **B.Tech in Artificial Intelligence & Machine Learning**
 - 📊 CGPA: **8.33 / 10**
-- 💡 Interested in **Artificial Intelligence, Machine Learning, Data Science and Software Development**
-- 🔨 Experienced in developing projects using **Python, JavaScript, React, Flask, Node.js, Express and MySQL**
+- 💡 Interested in **Artificial Intelligence, Machine Learning and Software Development**
+- 🔨 Experienced in developing projects using **Python, React, Flask, Node.js, Express and MySQL**
 - 🧠 Currently improving my **Java and Data Structures & Algorithms** skills
 - 📈 Interested in working on real-world problems using technology
 - 🤝 Open to learning, collaboration and career opportunities
@@ -27,7 +27,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🌐 Web Development
@@ -40,7 +39,6 @@
 ### 🤖 AI / ML & Data
 
 - Machine Learning
-- Data Science
 - NumPy
 - Pandas
 - Matplotlib
@@ -60,7 +58,7 @@
 
 ## 🚀 Featured Projects
 
-### ⭐ Roxiler Store Rating Platform
+### ⭐ Store Rating Platform - Fullstack Application
 
 A full-stack store rating platform that allows users to browse stores and submit ratings.
 
@@ -96,7 +94,7 @@ A full-stack chatbot designed to help students quickly access commonly required 
 
 ---
 
-### 🧠 ChillBot — Student Companion
+### 🧠 ChillBot — Student Companion Chatbot
 
 An AI-powered student companion designed to support students with learning, motivation, productivity and everyday assistance.
 
@@ -122,7 +120,7 @@ A machine learning project focused on predicting carbon emissions using relevant
 
 ---
 
-### 🔧 PipeWizard
+### 🔧 Pipe Design and Forecasting Model
 
 A technical project developed to provide a practical solution using programming and application development concepts.
 
@@ -141,9 +139,8 @@ A technical project developed to provide a practical solution using programming 
 ## 💼 Internship & Learning Experience
 
 - **Java Full Stack Development**
-- **Networking**
 - **ServiceNow**
-- **Zero Trust Cloud Security**
+
 
 These experiences helped me gain exposure to software development, backend technologies, networking concepts and modern cloud/security practices.
 
